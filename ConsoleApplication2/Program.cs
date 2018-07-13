@@ -12,7 +12,7 @@ namespace ConsoleApplication2
         {
 
             int a;
-            int b;
+            int c;
             Console.Write("This is A");
         }
     }
